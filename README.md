@@ -1,6 +1,6 @@
 - Portfólio Bootcamp I — Matheus Alves de Oliveira
 
-Repositório criado como parte do Desafio - Entrega Intermediária: Criação de Repositório com Versionamento, do Bootcamp I (2025), ministrado pelo professor Marcelo Carboni Gomes.  
+Repositório criado como parte do Desafio - Entrega Intermediária: Criação de Repositório com Versionamento, do Bootcamp I , ministrado pelo professor Marcelo Carboni Gomes.  
 Aqui estão reunidos meus projetos acadêmicos e pessoais, documentados e versionados com Git e GitHub, formando um portfólio profissional.
 
 ---
