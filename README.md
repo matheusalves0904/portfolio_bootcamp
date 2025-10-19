@@ -27,9 +27,3 @@ Este repositório tem como finalidade reunir meus projetos desenvolvidos ao long
 - **projetos-pessoais/** → projetos e experimentos independentes.  
 - **docs/** → documentos de planejamento.  
 - **contributions/** → registros de colaboração (Pull Requests externos).  
-
-
-# Abrir um projeto específico
-cd projetos-pessoais/portfolio-digital
-
-
